@@ -1,0 +1,11 @@
+.header{
+    justify-content: flex-end;
+    align-self: center;
+    background-attachment: blue;
+}
+.centent1{
+    justify-content: flex-end;
+}
+body {
+    align-self: center;
+}
